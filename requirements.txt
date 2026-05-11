@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+statsmodels
+scikit-learn
+jupyter
+# Optional: install prophet only if supported in your environment
+# prophet
